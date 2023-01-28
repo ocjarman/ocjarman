@@ -8,7 +8,7 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love to exercise!! Former collegiate athlete and current runner / Orangetheory cult member :)<br>
 
-**`Tech Stack:`**
+**`Tech Stack:`**<br>
 <img align="left" alt="JavaScript" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
