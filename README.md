@@ -6,10 +6,7 @@
 - 🌱 I’m currently learning Typescript and integrating it into past projects.
 - 📫 How to reach me: ocjarman@gmail.com || <a href="https://www.linkedin.com/in/olivia-jarman-4908a468">LinkedIn</a>
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I love to exercise!! Former collegiate athlete and current runner / Orangetheory cult member :)
-<br>
-<br>
-
+- ⚡ Fun fact: I love to exercise!! Former collegiate athlete and current runner / Orangetheory cult member :)<br>
 <img align="left" alt="JavaScript" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
