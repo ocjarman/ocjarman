@@ -2,8 +2,8 @@
 
 **`Mother, Developer, Runner, Coffee snob, Addicted to coding....! `**
 
-- 🔭 Graduated Fullstack Academy in Feb 2023 -- looking for my first developer role. 
-- 🌱 I’m currently working on a personal project using TypeScript, React, Redux, PostgreSQL, Node, & Express to provide resources to parents in the South FL area. 
+- 🔭 Graduated Fullstack Academy in Feb 2023. 
+- 🌱 Junior Software Engineer starting May 1 @ SITE Technologies. 
 - 📫 How to reach me: ocjarman@gmail.com || <a href="https://www.linkedin.com/in/olivia-jarman-4908a468">LinkedIn</a>
 - 😄 Pronouns: she/her/hers
 
