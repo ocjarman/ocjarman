@@ -2,7 +2,7 @@
 
 **`Mother, Developer, Runner, Coffee snob, Addicted to coding....! `**
 
-- 🌱 Software Engineer starting May 1 @ SITE Technologies. 
+- 🌱 Software Engineer @ SITE Technologies. 
 - 📫 How to reach me: ocjarman@gmail.com || <a href="https://www.linkedin.com/in/olivia-jarman-4908a468">LinkedIn</a>
 - 😄 Pronouns: she/her/hers
 
