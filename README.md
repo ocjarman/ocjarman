@@ -2,7 +2,7 @@
 
 **`Mother, Developer, Runner, Coffee snob, Addicted to coding....! `**
 
-- 🌱 Software Engineer @ SITE Technologies; work Github (@ojarmanST)
+- 🌱 Software Engineer @ SITE Technologies <a href="https://github.com/ojarmanST">Work GitHub</a>
 - 📫 How to reach me: ocjarman@gmail.com || <a href="https://www.linkedin.com/in/olivia-jarman-4908a468">LinkedIn</a>
 - 😄 Pronouns: she/her/hers
 
